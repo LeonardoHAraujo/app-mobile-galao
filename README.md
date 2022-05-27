@@ -1,12 +1,12 @@
-<p>Título: App mobile galão</p>
+# App mobile Galão
 
-<p>Autor: Leonardo Araújo</p>
+*Powered by Leonardo Araújo*
 
-<p>App mobile desenvolvido em flutter para acompanhar o atlético-mg.</p>
+Mobile app developed in flutter to accompany athletic-mg.
 
-<p>O app funciona assim:</p>
+## The app works follow
 
-    Você executa o app e ele realiza uma requisição a uma api que desenvolvi,
-    essa api realiza um web-scraping e me retorna informações como, próximos jogos,
-    últimos jogos e tabela do brasileirão em relação ao Galão da massa.
-    E assim, o app faz o resto. Renderiza de forma amigável para quem utiliza o app.
+You run the app and it makes a request to an api I developed,
+this api performs a web-scraping and returns information like, next games,
+last games and table of the brasileirão in relation to the Galão da pasta.
+And so, the app does the rest. It renders in a friendly way for those who use the app.
